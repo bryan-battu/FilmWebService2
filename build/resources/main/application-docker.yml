@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://db/filmapp
+    username: postgres
+    password: password
